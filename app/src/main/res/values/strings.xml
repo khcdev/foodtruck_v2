@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">붕붕이</string>
+
+    <!--App key-->
+    <string name="facebook_app_id">1813108498900576</string>
+    <string name="kakao_app_key">eb92054a910826db3b2d5d54403b1c95</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyChbub5I4ijDg76gMZyZyBAFSZZSCWpklI</string>
+    <!--===============================================================-->
+
+    <!--activity_main res-->
+    <string name="str_imgbtn_Userpart">USER</string>
+    <string name="str_imgbtn_Sellerpart">SELLER</string>
+    <!--===================================================-->
+    <!--user_main res-->
+    <string name="app_title">HungryDuck</string>
+    <string name="str_imgbtn_NonAccLogin">손님으로 입장하기</string>
+    <string name="str_imgbtn_kkoLogin">카카오톡 아이디로 로그인하기</string>
+    <string name="str_imgbtn_fbLogin">페이스북 아이디로 로그인하기</string>
+    <!--===================================================-->
+    <!--seller_main res-->
+    <string name="str_imgbtn_login">Login</string>
+    <!--===================================================-->
+
+    <!--seller_fragment-->
+    <string name="str_seller_sales">영업</string>
+    <string name="str_seller_storemng">매장</string>
+    <string name="str_seller_news">소식</string>
+    <string name="str_seller_settings">설정</string>
+
+    <!--User_fragment-->
+    <string name="str_user_list">트럭리스트</string>
+    <string name="str_user_map">지도</string>
+    <string name="str_user_setting">설정</string>
+    <string name="str_done">완료</string>
+</resources>
